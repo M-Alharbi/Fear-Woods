@@ -17,8 +17,8 @@ Fear Woods is different because it's simple but still very scary. It's about usi
 
 ## Assignment of Responsibility
 
-- Mohammed Alharbi- fFront end designer and devloper
-- Keshiro Mubarak- Algorithms and logic developer
+- Mohammed Alharbi- Front end designer and developer
+- Keshiro Mubarak- Algorithm and logic developer
 
 ## Project Timeline
 February 14 - Team project 1 meeting and idea creation 
@@ -27,7 +27,6 @@ March 13 - Project front end iteration and conclusion
 March 20 -Project meeting 2 and algorithm development 
 March 27- Algorithm and logic finalization 
 April 03 & 10- Final game outlook and finalization and game demo  
-- Timeline 
 
 ## Features
 
