@@ -13,12 +13,12 @@ Fear Woods is different because it's simple but still very scary. It's about usi
 ## Team Members
 
 - Mohammed Alharbi
-- Keshiro Mubarak
+- Mubarak Abiola Keshiro
 
 ## Assignment of Responsibility
 
 - Mohammed Alharbi- Front end designer and developer
-- Keshiro Mubarak- Algorithm and logic developer
+- Mubarak Abiola Keshiro- Algorithm and logic developer
 
 ## Project Timeline
 February 14 - Team project 1 meeting and idea creation 
