@@ -32,6 +32,7 @@ public class MonsterController : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            Debug.Log("Player collided with monster");
             EndGame();
         }
     }
