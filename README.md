@@ -34,3 +34,4 @@ April 03 & 10- Final game outlook and finalization and game demo
 - Immersive horror setting that plays on primal fears.
 - Survival mechanics including collecting parts and stealth.
 - Focus on non-combat objectives, appealing to a wide audience.
+![FEAR WOODS](https://github.com/M-Alharbi/Fear-Woods/assets/98908030/426d2f2e-88d0-41de-a282-2d5c80529528)
